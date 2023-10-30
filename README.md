@@ -1,9 +1,9 @@
 # Time Series
-Repositório para organização de assignments da disciplina de Séries Temporais da FGV EMAp 2023.2
+Repository to keep the assignments of the Time Series discipline, FGV EMAp. 
 
-**TAREFA 1:** ACF & Simple forecasting methods to use as baseline
+**TASK 1:** ACF & Simple forecasting methods to use as baseline
 
-Integrantes:
+Members:
 * Ana Carolina Erthal
 * Cristiano Larréa
 * Felipe Lamarca
