@@ -12,8 +12,6 @@ Isso, naturalmente, quando $\text{m}(y_T) \neq \text{l}(y_T)$
 
 **❗TODO PROCESSO ESTACIONÁRIO É UM PROCESSO LINEAR OU PODE SER TRANSFORMADO EM PROCESSO LINEAR.**
 
-[Notebook 1](src/nb1.ipynb)
-
 $\Rightarrow$ **ESTIMATIVAS BASEADAS EM MODELOS**
 
 Temos um processo que queremos modelar, i.e., observamos certos dados sem conhecer o processo gerador.

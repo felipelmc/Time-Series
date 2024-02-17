@@ -80,8 +80,8 @@ O comportamento dessa função é fundamental para verificar se existe relação
 
 Se **não houver** relação temporal, esperamos algo como:
 
-![sem-relacao-temporal](images/sem-relacao-temporal.jpg)
+![sem-relacao-temporal](../images/sem-relacao-temporal.jpg)
 
 Se **houver** relação temporal, esperamos algo como:
 
-![relacao-temporal](images/relacao-temporal.jpg)
+![relacao-temporal](../images/relacao-temporal.jpg)

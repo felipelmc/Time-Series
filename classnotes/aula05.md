@@ -23,7 +23,7 @@ Repetimos o processo para gerar $y_{t+2}$, $y_{t+3}$, etc, onde $y_{t+2} = \hat{
 >
 > Bootstrap é uma ferramenta para calcular incerteza. Se você tem poucos dados, naturalmente a incerteza já é grande e o bootstrap vai refletir isso.
 >
-> ![bootstrapping](images/residuals-bootstrap.jpeg)
+> ![bootstrapping](../images/residuals-bootstrap.jpeg)
 
 **Box-Cox transformation**: se os dados apresentam variações que crescem ou diminuem dependendo do nível da série (ou seja, não tem variância constante), podemos aplicar uma transformação Box-Cox para estabilizar a variância. A transformação é dada por:
 
